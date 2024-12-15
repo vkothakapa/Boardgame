@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/901e0e48-360a-4f63-b654-ae43b6aaf0bc)
+
+
 # BoardgameListingWebApp
 
 ## Description
